@@ -1,6 +1,8 @@
 # My-Taxi-Booking-Application
 REST APIs for Taxi Booking Application
 
+This appliaction is developed using node.js 
+
 How to start using this application?
 
 1. Make sure the node.js is installed on yiur local desktop
