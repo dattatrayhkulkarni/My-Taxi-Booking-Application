@@ -7,10 +7,14 @@ How to start using this application?
 2. Download the code from Github repository
 https://github.com/dattatrayhkulkarni/My-Taxi-Booking-Application
 
-3.After downloading the code, open the command line, go to folder My-Taxi-Booking-Application
+3.After downloading the code, 
+
+open the command line, go to folder My-Taxi-Booking-Application
+
 We will need to have all the node modules in place to make this application work.
 
 4. Run below commands.
+
 npm install
 
 5. This command will create a new folder node_modules and download all the requried modules, in it.
